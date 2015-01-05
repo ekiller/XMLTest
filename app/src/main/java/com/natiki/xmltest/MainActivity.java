@@ -49,6 +49,7 @@ import android.widget.ListAdapter;
         static final String KEY_WTEMP = "v";
         EditText editsearch;
         JSONArray user = null;
+        private String wTemp = null;
 
 
 
